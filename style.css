@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 16px;
+    background-color: var(--color-bg) ;
+}
+button{
+    padding: 5px;
+}
+:root{
+    --color-bg: green ; 
+}
